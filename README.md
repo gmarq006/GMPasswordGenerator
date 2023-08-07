@@ -11,6 +11,9 @@ The purpose of this development is to generate a random password for those who n
 
 <img scr="/Users/gm/Desktop/UM-Bootcamp/challenges/coderef-challenge-3/Develop/Screenshot 2023-08-07 at 2.49.05 PM.png">
 
+<img width="1149" alt="Screenshot 2023-08-07 at 2 49 05 PM" src="https://github.com/gmarq006/GMPasswordGenerator/assets/130015897/9968a767-bc70-4060-a25a-bb3ef39530db">
+
+
 ## Contributing
 
 Code is not available for contributing. 
